@@ -33,4 +33,6 @@
     <string name="toast_no_connectivity">Will refresh when network available.</string>
     <string name="stock_name_description">Stock name</string>
 
+    <string name="toast_symbol_dont_exist">Symbol %1$s don\'t exist!</string>
+
 </resources>
