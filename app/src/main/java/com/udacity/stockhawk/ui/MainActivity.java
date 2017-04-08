@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity implements LoaderManager.Loa
     public void onClick(String symbol) {
         Timber.d("Symbol clicked: %s", symbol);
         Intent intent = new Intent(this, StockDetailsActivity.class);
-		intent.putExtra(IntentKeys.EXTRA_STOCK_NAME, symbol);
+		intent.putExtra(IntentKeys.EXTRA_STOCK_SYMBOL, symbol);
 		startActivity(intent);
     }
 

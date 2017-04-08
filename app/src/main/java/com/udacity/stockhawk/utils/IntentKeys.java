@@ -5,5 +5,5 @@ package com.udacity.stockhawk.utils;
  */
 
 public class IntentKeys {
-	public static final String EXTRA_STOCK_NAME = "stock_name";
+	public static final String EXTRA_STOCK_SYMBOL = "stock_name";
 }
