@@ -39,5 +39,6 @@
     <string name="update">update</string>
     <string name="add_stock">Add stock</string>
     <string name="stocks_list">Stock list</string>
+    <string name="history_of_stock_value_over_time">History of stock value over time</string>
 
 </resources>
