@@ -16,6 +16,7 @@
         <ListView
             android:id="@+id/list_view_widget"
             android:layout_width="match_parent"
+            android:contentDescription="@string/stocks_list"
             android:layout_height="match_parent"/>
 
         <TextView

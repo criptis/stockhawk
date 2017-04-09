@@ -38,5 +38,6 @@
     <string name="widget_empty_text">Add stocks in the App!</string>
     <string name="update">update</string>
     <string name="add_stock">Add stock</string>
+    <string name="stocks_list">Stock list</string>
 
 </resources>
