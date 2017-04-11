@@ -124,6 +124,8 @@ public class MainActivity extends AppCompatActivity implements LoaderManager.Loa
     void addStock(String symbol) {
         if (symbol != null && !symbol.isEmpty()) {
 
+            symbol = symbol.toUpperCase();
+
             if (networkUp()) {
                 swipeRefreshLayout.setRefreshing(true);
             } else {
